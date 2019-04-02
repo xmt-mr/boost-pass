@@ -2,7 +2,7 @@
 # Overview
 Boost.Pythonを用いた、C++とPython3の間の、様々なデータの受け渡し方法
 
-# Dependency & Setup
+# Dependency
 - C++11
 - Python3
 - Boost.Python
